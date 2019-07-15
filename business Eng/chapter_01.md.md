@@ -10,18 +10,18 @@
 10. We believe this is low risk as changes are minor.
 11. Please ensure the data validations `are done` correctly.
 12. you can `venmo` me.
-- It only comes around once in a while.
-- I am seeking direction from Stephen Ellison. (可以从。。。找到方向)
-- Great work – keep it up
-- Please feel free to `drop by` anytime to say hello.
-- Please feel free to `drop by`(stop by) `at` my place.
-- Mid-Autumn Festival is a harvest festival. The festival was a time to enjoy the successful reaping of rice and wheat with food offerings made in honor of the moon. Today it’s an occasion for outdoor reunions among friends and relatives to eat mooncakes and watch the moon, a symbol of harmony and unity.
-- (You as well Candice) if you are celebrating state side! 比较口语化，你也是Candice如果你支持state那一边的话。
-- Hello....stepping away for 1 min! thx (离开一分钟哈)
-- don't forget to pack your air jordan hightop sneakers
-- I will be in Multi Goal google sprint from Apr 29th – May 3rd.  Please `expect delays` in my response.
-- and starts at 11 am `sharp`.
-- Let’s `walk the board` this morning:
+13. It only comes around once in a while.
+14. I am seeking direction from Stephen Ellison. (可以从。。。找到方向)
+15. Great work – keep it up
+16. Please feel free to `drop by` anytime to say hello.
+17. Please feel free to `drop by`(stop by) `at` my place.
+18. Mid-Autumn Festival is a harvest festival. The festival was a time to enjoy the successful reaping of rice and wheat with food offerings made in honor of the moon. Today it’s an occasion for outdoor reunions among friends and relatives to eat mooncakes and watch the moon, a symbol of harmony and unity.
+19. (You as well Candice) if you are celebrating state side! 比较口语化，你也是Candice如果你支持state那一边的话。
+20. Hello....stepping away for 1 min! thx (离开一分钟哈)
+21. don't forget to pack your air jordan hightop sneakers
+22. I will be in Multi Goal google sprint from Apr 29th – May 3rd.  Please `expect delays` in my response.
+23. and starts at 11 am `sharp`.
+24. Let’s `walk the board` this morning:
 - I am feeling under the weather
 - I am still down with flu.
 - February was another `release-filled` month.
@@ -31,5 +31,5 @@
 - Shadow DOM removes the `brittleness` of building web apps. The brittleness comes from the global nature of HTML, CSS, and JS. Over the years we've invented an `exorbitant` number of tools to `circumvent` the issues. For example, when you use a new HTML id/class, `there's no telling` if it will conflict with an existing name used by the page. `Subtle bugs creep up`, CSS specificity becomes a huge issue (!important all the things!), style selectors grow out of control, and performance can suffer. The list goes on.
 - hello....`stepping away` for 1 min! thx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTI2OTk2NDYsLTI1MTIwMjA2Ml19
+eyJoaXN0b3J5IjpbNzU0OTAxMjU5LC0yNTEyMDIwNjJdfQ==
 -->
