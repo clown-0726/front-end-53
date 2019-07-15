@@ -22,14 +22,14 @@
 22. I will be in Multi Goal google sprint from Apr 29th – May 3rd.  Please `expect delays` in my response.
 23. and starts at 11 am `sharp`.
 24. Let’s `walk the board` this morning:
-- I am feeling under the weather
-- I am still down with flu.
-- February was another `release-filled` month.
-- I’d like to take tomorrow off `if there are no objections`.
-- I’m excited to hear how it goes.
-- You all `have done` a really great job.
-- Shadow DOM removes the `brittleness` of building web apps. The brittleness comes from the global nature of HTML, CSS, and JS. Over the years we've invented an `exorbitant` number of tools to `circumvent` the issues. For example, when you use a new HTML id/class, `there's no telling` if it will conflict with an existing name used by the page. `Subtle bugs creep up`, CSS specificity becomes a huge issue (!important all the things!), style selectors grow out of control, and performance can suffer. The list goes on.
-- hello....`stepping away` for 1 min! thx
+25. I am feeling under the weather
+26. I am still down with flu.
+27. February was another `release-filled` month.
+28. I’d like to take tomorrow off `if there are no objections`.
+29. I’m excited to hear how it goes.
+30. You all `have done` a really great job.
+31. Shadow DOM removes the `brittleness` of building web apps. The brittleness comes from the global nature of HTML, CSS, and JS. Over the years we've invented an `exorbitant` number of tools to `circumvent` the issues. For example, when you use a new HTML id/class, `there's no telling` if it will conflict with an existing name used by the page. `Subtle bugs creep up`, CSS specificity becomes a huge issue (!important all the things!), style selectors grow out of control, and performance can suffer. The list goes on.
+32. hello....`stepping away` for 1 min! thx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0OTAxMjU5LC0yNTEyMDIwNjJdfQ==
+eyJoaXN0b3J5IjpbMjA4MTk5NDczMCwtMjUxMjAyMDYyXX0=
 -->
