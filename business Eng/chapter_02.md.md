@@ -2,17 +2,13 @@
 2. Great work – keep it up
 3. WORD: just-in-time(刚刚准时), trade in(交易), cockpit(座舱)
 4. With their anticipated time off coming up. (他们预期的时间即将到来)
-5. With that said, ya observed one less frequent scenario in the last release.
+5. With that said, ya observed one less frequent scenario in the last release. (话虽如此，你在上一个版本中发现了一个较不频繁的场景。)
+6. Without tools or naming conventions, you can bundle CSS with markup, hide implementation details, and author self-contained components in vanilla JavaScript.
+7. Alternating between attribute/property name and value.
+8. If the account number changed (`to your point`).
+9. Managing assets `in excess of` $1 trillion.
 
-Shadow DOM fixes CSS and DOM. It introduces scoped styles to the web platform. Without tools or naming conventions, you can bundle CSS with markup, hide implementation details, and author self-contained components in vanilla JavaScript.
-
-Alternating between attribute/property name and value.
-
-If the accout number changed (to your point).
-
-managing assets in excess of $1 trillion.
-
-understand the technical design also the business requirements of GPQ project and have a discussion of collaboration.
+Understand the technical design also the business requirements of GPQ project and have a discussion of collaboration.
 
 During the trip Mr. Cao will continue to receive his compensation from FBS Dalian, which will also bear the cost of air and ground transportation for his trip as well as hotel, meals and associated expenses during Mr Cao’s stay in the US.
 
@@ -32,5 +28,5 @@ Appreciate your patience as I flooded your calendar with meeting invites this mo
 
 This was the same issue when I tried to fix the bug 1916 few sprints back and it was decided to put on hold until the backend was fixed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4NzYzNzIyXX0=
+eyJoaXN0b3J5IjpbMTY1ODY0ODkzM119
 -->
