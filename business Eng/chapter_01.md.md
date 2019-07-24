@@ -30,6 +30,15 @@
 30. You all `have done` a really great job.
 31. Shadow DOM removes the `brittleness` of building web apps. The brittleness comes from the global nature of HTML, CSS, and JS. Over the years we've invented an `exorbitant` number of tools to `circumvent` the issues. For example, when you use a new HTML id/class, `there's no telling` if it will conflict with an existing name used by the page. `Subtle bugs creep up`, CSS specificity becomes a huge issue (!important all the things!), style selectors grow out of control, and performance can suffer. The list goes on.
 32. hello....`stepping away` for 1 min! thx
+33. He was really fast to start producing.  Fun to watch him `knock out` stories
+34. Anyone on the `phone bridge`?
+35. Actual football, Not our `knock-off brand`.
+36. I `spot` checked some of the ones.
+37. how the work was `sequenced`.
+38. I’ll `defer` this question to Jake for clarification.
+39. `Seeking direction from Stephen Ellison.
+Welcome aboard Rich & Emmanuel!!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTk5NDczMCwtMjUxMjAyMDYyXX0=
+eyJoaXN0b3J5IjpbMTI3OTQ4NTI4MCwyMDgxOTk0NzMwLC0yNT
+EyMDIwNjJdfQ==
 -->
