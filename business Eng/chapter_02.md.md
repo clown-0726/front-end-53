@@ -7,14 +7,9 @@
 7. Alternating between attribute/property name and value.
 8. If the account number changed (`to your point`).
 9. Managing assets `in excess of` $1 trillion.
-
-Understand the technical design also the business requirements of GPQ project and have a discussion of collaboration.
-
-During the trip Mr. Cao will continue to receive his compensation from FBS Dalian, which will also bear the cost of air and ground transportation for his trip as well as hotel, meals and associated expenses during Mr Cao’s stay in the US.
-
-It is Mr. Cao’s and Fidelity’s intention that Mr. Cao depart the US promptly upon conclusion of his business trip.
-
-we can surgically fix.
+10. Understand the technical design `also` the business requirements of GPQ project and have a discussion of collaboration.
+11. During the trip Mr. Cao will continue to receive his `compensation` from FBS Dalian, which will also `bear the cost of air` and `ground transportation` for his trip as well as hotel, meals and associated expenses during Mr Cao’s stay in the US.
+12. `It is Mr. Cao’s and Fidelity’s intention` that Mr. Cao depart the US `promptly` upon conclusion of his business trip.we can surgically fix.
 
 I'll have mine over no later than tomorrow.
 
@@ -28,5 +23,5 @@ Appreciate your patience as I flooded your calendar with meeting invites this mo
 
 This was the same issue when I tried to fix the bug 1916 few sprints back and it was decided to put on hold until the backend was fixed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODY0ODkzM119
+eyJoaXN0b3J5IjpbLTgxNjEzOTE0MV19
 -->
