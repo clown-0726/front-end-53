@@ -36,9 +36,9 @@
 36. I `spot` checked some of the ones.
 37. how the work was `sequenced`.
 38. I’ll `defer` this question to Jake for clarification.
-39. `Seeking direction from Stephen Ellison.
-Welcome aboard Rich & Emmanuel!!
+39. `Seeking direction` from Stephen Ellison.
+40. Welcome `aboard` Rich & Emmanuel!!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTQ4NTI4MCwyMDgxOTk0NzMwLC0yNT
+eyJoaXN0b3J5IjpbLTQzNjgxNzY3NiwyMDgxOTk0NzMwLC0yNT
 EyMDIwNjJdfQ==
 -->
