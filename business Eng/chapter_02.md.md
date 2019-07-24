@@ -12,16 +12,13 @@
 12. `It is Mr. Cao’s and Fidelity’s intention` that Mr. Cao depart the US `promptly` upon conclusion of his business trip.
 13. we can surgically fix.
 14. I'll have mine over no later than tomorrow. ???
-
-To review the start of the set of stories encompassed in the “Dashboard Component”.
-
-will be captured in the data cut-over.
-
-The page is not set in stone, so please feel free to make changes or additions as you see fit. I’ll be working with each of you to revamp our Confluence site, so stay tuned.
+15. To review the start of the set of stories `encompassed`(涵盖, 包含) in the “Dashboard Component”.
+16. Will be captured in the data `cut-over`(切换).
+17. The page `is not set in stone`, so please feel free to make changes or `additions` as `you see fit`. I’ll be working with each of you to revamp our Confluence site, so stay tuned.
 
 Appreciate your patience as I flooded your calendar with meeting invites this morning;
 
 This was the same issue when I tried to fix the bug 1916 few sprints back and it was decided to put on hold until the backend was fixed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5Mjg2NDI4MV19
+eyJoaXN0b3J5IjpbLTE3MjAyMTE0XX0=
 -->
