@@ -16,9 +16,9 @@ https://stackedit.io/
 
 [前端开发博客一周面试题汇总](https://mp.weixin.qq.com/s/6KnqNmCR0sBwo61bV5dwdQ)
 
-[# 一个优秀的前端都应该阅读这些文章](https://github.com/Nealyang/PersonalBlog/issues/48)
+[一个优秀的前端都应该阅读这些文章](https://github.com/Nealyang/PersonalBlog/issues/48)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU4NzQ0Mjg2LC0yMDM1NzYwMzUxLDIzMz
+eyJoaXN0b3J5IjpbODcyNDcyOTYxLC0yMDM1NzYwMzUxLDIzMz
 A0NjExN119
 -->
