@@ -17,6 +17,7 @@
 17. The page `is not set in stone`, so please feel free to make changes or `additions` as `you see fit`. I’ll be working with each of you to `revamp`(修补) our Confluence site, so stay tuned.
 18. Appreciate your patience as `I flooded your calendar` with meeting invites this morning;
 19. This was the same issue when I tried to fix the bug-1916 `few sprints back` and it was decided to `put on hold` until the backend was fixed.
+20. I will `circle back` with you in a few days on that compensation memo. [Connecting with folks on a business issue and letting things happen, then going **back** to them after a few days or after things evolve.]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwNTQ2MTU4XX0=
+eyJoaXN0b3J5IjpbMTE2NDE3NzQxMyw4MDA1NDYxNThdfQ==
 -->
