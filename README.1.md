@@ -18,8 +18,8 @@ https://stackedit.io/
 
 [一个优秀的前端都应该阅读这些文章](https://github.com/Nealyang/PersonalBlog/issues/48)
 
-[前端面试考点多？看这些文章就够了（2019年6月更新版）](https://github.com/Nealyang/PersonalBlog/issues/48)
+[前端面试考点多？看这些文章就够了（2019年6月更新版](https://juejin.im/post/5aae076d6fb9a028cc6100a9#heading-22)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTY3ODY0MDEsODcyNDcyOTYxXX0=
+eyJoaXN0b3J5IjpbLTE2ODk5NzUzMzYsODcyNDcyOTYxXX0=
 -->
