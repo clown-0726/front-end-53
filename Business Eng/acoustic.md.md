@@ -5,7 +5,7 @@
 
 
 #### For bathroom
-🐛 soothing: 抚慰的 🐛 miracle: 奇迹的 🐛 Aloe Vera leaves: 芦荟叶 🐛 relief: 缓解 🐛 minor burn: 轻微烧伤 🐛 chafing: 摩擦 🐛 Itching: 瘙痒 🐛 nevus: 痣 🐛 May stain some fabrics 🐛 on blemishes 缺陷，瑕疵 🐛 preservatives: 防腐剂 🐛 therapy 🐛 stabilizers 🐛 balm/palm 🐛 revitalising: 振兴
+🐛 soothing: 抚慰的 🐛 miracle: 奇迹的 🐛 Aloe Vera leaves: 芦荟叶 🐛 relief: 缓解 🐛 minor burn: 轻微烧伤 🐛 chafing: 摩擦 🐛 Itching: 瘙痒 🐛 nevus: 痣 🐛 May stain some fabrics 🐛 on blemishes 缺陷，瑕疵 🐛 preservative: 防腐剂 🐛 therapy 🐛 stabilizers 🐛 balm/palm: 唇膏/手掌 🐛 revitalising: 振兴
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTE0OTM3MTJdfQ==
+eyJoaXN0b3J5IjpbMzU2Nzc3MDEzXX0=
 -->
