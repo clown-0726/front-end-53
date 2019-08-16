@@ -21,6 +21,7 @@
 21. viable = possible, overlook[忽视], penetrate -> penetrating[有洞察力的], hassle [争论，争辩], a hint of[少许，一点]
 22. I get teleported straight to my...
 23. The above code is imperative [迫切，急切] and repetitive. 必要的和重复的。
+24. Although originally coined for CJK (Chinese, Japanese and Korean) computing. [coin: 模压, 冲制]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYzMDk3MDM4XX0=
+eyJoaXN0b3J5IjpbLTE0NDkwMzY1Ml19
 -->
