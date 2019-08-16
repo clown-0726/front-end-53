@@ -18,8 +18,8 @@
 18. Appreciate your patience as `I flooded your calendar` with meeting invites this morning;
 19. This was the same issue when I tried to fix the bug-1916 `few sprints back` and it was decided to `put on hold` until the backend was fixed.
 20. I will `circle back` with you in a few days on that compensation memo. [Connecting with folks on a business issue and letting things happen, then going **back** to them after a few days or after things evolve.]
-21. viable = possible, overlook 忽视, penetrate -> penetrating[有洞察力的]
-22. 
+21. viable = possible, overlook[忽视], penetrate -> penetrating[有洞察力的], hassle [争论，争辩], a hint of[少许，一点]
+22. I get teleported straight to my...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMwODg2NzU4XX0=
+eyJoaXN0b3J5IjpbLTE4MTE0MTc5MDBdfQ==
 -->
