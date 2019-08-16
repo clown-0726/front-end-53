@@ -5,7 +5,7 @@
 
 
 #### For bathroom
-🐛 soothing
+🐛 soothing: 抚慰的 🐛 miracle: 奇迹的 🐛 Aloe Vera leaves: 芦荟叶 🐛 relief: 缓解 🐛 minor burn: 轻微烧伤 🐛 chafing: 摩擦 🐛 Itching
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5MjYzNjQ5XX0=
+eyJoaXN0b3J5IjpbLTMwMzkwMTI1MF19
 -->
