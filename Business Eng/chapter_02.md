@@ -1,4 +1,4 @@
-1. pronunciation: tell -- tail, fight -- fought, borrow
+1. POC: proof of concept; GTD: Getting things done
 2. Great work – keep it up
 3. WORD: just-in-time(刚刚准时), trade in(交易), cockpit(座舱)
 4. With their anticipated time off coming up. (他们预期的时间即将到来)
@@ -22,6 +22,11 @@
 22. I get teleported straight to my...
 23. The above code is imperative [迫切，急切] and repetitive. 必要的和重复的。
 24. Although originally coined for CJK (Chinese, Japanese and Korean) computing. [coin: 模压, 冲制]
+25. What if I can jump `2 times' hight` than now?
+26. If it's out of your control, why fret [使烦恼，焦急] about it?
+27. cable, cabinet, drawer, flip chart(展示板), pascal case, sweat, my two cents(本人拙见)
+28. Canary - Beta - Stable
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE0NDkwMzY1Ml19
 -->

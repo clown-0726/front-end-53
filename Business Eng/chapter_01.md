@@ -38,6 +38,7 @@
 38. I’ll `defer` this question to Jake for clarification.
 39. `Seeking direction` from Stephen Ellison.
 40. Welcome `aboard` Rich & Emmanuel!!
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTQzNjgxNzY3Nl19
 -->
