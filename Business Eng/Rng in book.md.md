@@ -46,8 +46,10 @@
 - managed to = arranged to：成功的完成xxx
 - when I had a rough encounter with change.
 - a fraction of 一部分
-- practically实际上; ency
+- practically实际上; encyclopedia 百科全书
+- No one responded so she suggested, "How about a show of hands?"
+- we wanted to hand on
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU5ODQ2OTAyLDExOTM3NjU0MjUsMTMxMj
-c5MTA3OCw3MzM3NDIxODNdfQ==
+eyJoaXN0b3J5IjpbMTY2OTA1ODA4NSwxMTkzNzY1NDI1LDEzMT
+I3OTEwNzgsNzMzNzQyMTgzXX0=
 -->
