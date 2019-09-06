@@ -25,6 +25,8 @@
 - Haw looked at his emaciated(消瘦的) companion.
 - Haw stuck his head out(把头伸出来) and peered(视线焦急地) anxiously into the Maze.
 - He could feel himself being drawn back(拉开，退却) into familiar territory.
+- If he had bitten off more than he could chew.
+- Mold(霉菌); stay more alert
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzc5ODczMTksNzMzNzQyMTgzXX0=
+eyJoaXN0b3J5IjpbMTIwMjA3OTc0Nyw3MzM3NDIxODNdfQ==
 -->
