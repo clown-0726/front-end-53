@@ -9,6 +9,8 @@
 - whatever you decide success is for you.
 - They had gone off in different directions.
 - cope with = handle with; they passed it on to others.
+- nibble the cheese; put on there jogging suits.
+- The maze was a labyrinth of corridors and chambers, some containing delicious cheese. But t
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjMxMTkyNDBdfQ==
+eyJoaXN0b3J5IjpbLTkwMDU4NjgxNl19
 -->
