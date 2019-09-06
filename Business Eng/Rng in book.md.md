@@ -14,9 +14,10 @@
 - The maze was a labyrinth of corridors and chambers, some containing delicious cheese. But there were also dark corners and blind alleys leading nowhere. It was an easy place for anyone to get lost.
 - to enjoy the tasty new morsels that awaited them.
 - waddle (蹒跚而行)
-- "xxx", he hollered(发牢骚), he demanded(fan'wen'dao)
+- "xxx", he hollered(发牢骚), he demanded(反问道), he scoffed(嘲笑)
 - he screamed at the top of his voice.
 - atop = on the top of
+- He squealed(尖声叫) with delight.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI2ODMyNjY2XX0=
+eyJoaXN0b3J5IjpbNzMzNzQyMTgzXX0=
 -->
