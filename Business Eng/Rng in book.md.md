@@ -7,7 +7,8 @@
 - This brief parable(寓言) takes little time to read.
 - book's early manuscript(手稿)
 - whatever you decide success is for you.
-- They had gone off in direction 
+- They had gone off in different directions.
+- cope with = handle with; they passed it on to others.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTExMzY0NDYyXX0=
+eyJoaXN0b3J5IjpbLTExMjMxMTkyNDBdfQ==
 -->
