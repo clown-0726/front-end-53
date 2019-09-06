@@ -36,7 +36,8 @@
 - he retraced his steps.(回到原来的地方)
 - He was happy when he wasn't being run bu his fear.
 - Savoring(进行享受) New Cheese.
+- Haw proceeded along a corridor that was new to him, rounded a corner, and found a new place.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDkwMDczMCwxMTkzNzY1NDI1LDEzMT
+eyJoaXN0b3J5IjpbMTk1ODc5OTA3MywxMTkzNzY1NDI1LDEzMT
 I3OTEwNzgsNzMzNzQyMTgzXX0=
 -->
