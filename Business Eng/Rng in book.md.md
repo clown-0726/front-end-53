@@ -48,8 +48,8 @@
 - a fraction of 一部分
 - practically实际上; encyclopedia 百科全书
 - No one responded so she suggested, "How about a show of hands?"
-- we wanted to hand on
+- we wanted to hand on(坚持) to it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTA1ODA4NSwxMTkzNzY1NDI1LDEzMT
-I3OTEwNzgsNzMzNzQyMTgzXX0=
+eyJoaXN0b3J5IjpbNjc3MDkwNzk1LDExOTM3NjU0MjUsMTMxMj
+c5MTA3OCw3MzM3NDIxODNdfQ==
 -->
