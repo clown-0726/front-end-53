@@ -29,7 +29,8 @@
 - Mold(霉菌); stay more alert
 - He was still weighted down(给。。。加重负担) by fearful beliefs.
 - He was still paralyzed by his own fears.
-- What lay ahwad
+- What lay ahead? 
+- danger lurking()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg1Nzk1MzMsNzMzNzQyMTgzXX0=
+eyJoaXN0b3J5IjpbODMyMTE4MTAxLDczMzc0MjE4M119
 -->
