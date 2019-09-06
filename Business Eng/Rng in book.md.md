@@ -33,7 +33,7 @@
 - danger lurking(潜水)
 - Haw realized he had been held captive(俘虏) by his own fear.
 - felt invigorated(鼓舞) by the movement.
-- he retraced his steps.()
+- he retraced his steps.(回到原来的地方)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUyMTk4NTEzLDczMzc0MjE4M119
+eyJoaXN0b3J5IjpbMTMxMjc5MTA3OCw3MzM3NDIxODNdfQ==
 -->
