@@ -42,8 +42,10 @@
 - Hooray(高呼万岁) for change.
 - Hem still hemmed in because he would not change.
 - Get out of his predicament.
+- He draws a large piece of cheese around all the insights he had become aware of.
+- managed to = arranged to：成功的完成xxx
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NzEwMTQ2MywxMTkzNzY1NDI1LDEzMT
-I3OTEwNzgsNzMzNzQyMTgzXX0=
+eyJoaXN0b3J5IjpbLTEyMzM0MzYyMTgsMTE5Mzc2NTQyNSwxMz
+EyNzkxMDc4LDczMzc0MjE4M119
 -->
