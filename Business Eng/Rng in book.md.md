@@ -18,7 +18,9 @@
 - he screamed at the top of his voice.
 - atop = on the top of
 - He squealed(尖声叫) with delight.
-- ma
+- make a fool of myself.
+- Hem held the chisel, while Haw banged on the hammer until made a hole in the wall.
+- But he had to laugh at his folly when he saw
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDIzNDk0OTAsNzMzNzQyMTgzXX0=
+eyJoaXN0b3J5IjpbNTU0NTI3NTc0LDczMzc0MjE4M119
 -->
