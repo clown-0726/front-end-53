@@ -10,7 +10,8 @@
 - They had gone off in different directions.
 - cope with = handle with; they passed it on to others.
 - nibble the cheese; put on there jogging suits.
-- The maze was a labyrinth of corridors and chambers, some containing delicious cheese. But t
+- The maze was a labyrinth of corridors and chambers, some containing delicious cheese. But there were also dark corners and blind alleys leading nowhere. It was an easy place for anyone to get lost.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDU4NjgxNl19
+eyJoaXN0b3J5IjpbMjY5NjU3NDU1XX0=
 -->
