@@ -32,6 +32,7 @@
 - What lay ahead? 
 - danger lurking(潜水)
 - Haw realized he had been held captive(俘虏) by his own fear.
+- felt invigorated(鼓舞) by the movement.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODQ3NjQ0LDczMzc0MjE4M119
+eyJoaXN0b3J5IjpbLTY4OTkzMzkyOSw3MzM3NDIxODNdfQ==
 -->
