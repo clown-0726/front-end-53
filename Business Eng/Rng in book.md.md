@@ -37,7 +37,10 @@
 - He was happy when he wasn't being run bu his fear.
 - Savoring(进行享受) New Cheese.
 - Haw proceeded along a corridor that was new to him, rounded a corner, and found a new place.
+- He was startled.
+- Scurry waved his paw, their fat little bellies showed that they had been here for some time.
+- Hooray(高呼万岁) for change.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1ODc5OTA3MywxMTkzNzY1NDI1LDEzMT
-I3OTEwNzgsNzMzNzQyMTgzXX0=
+eyJoaXN0b3J5IjpbODQ1Nzc3OTEzLDExOTM3NjU0MjUsMTMxMj
+c5MTA3OCw3MzM3NDIxODNdfQ==
 -->
