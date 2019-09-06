@@ -1,6 +1,9 @@
 # Who moved my cheese?
 
-- sniff, scurry, Hem, Haw
+- Sniff, Scurry, Hem, Haw - four imaginary characters
+- jogging and golf
+- It can be traumatic.(心理/生理 创伤)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzg2MDc5MDldfQ==
+eyJoaXN0b3J5IjpbLTEzNDkzNTQzMDddfQ==
 -->
