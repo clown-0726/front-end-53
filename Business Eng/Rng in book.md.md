@@ -23,7 +23,8 @@
 - But he had to laugh at his folly(愚笨) when he saw what his fear was doing to him.
 - Where am I more likely to find Cheese -- here or in the Maze?
 - Haw looked at his emaciated(消瘦的) companion.
-- Haw stuck his head out and peered anxiously into the Maze.
+- Haw stuck his head out(把头伸出来) and peered() anxiously into the Maze.
+- He could feel himself being drawn back(拉开，退却) into familiar territory.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzUwNjIsNzMzNzQyMTgzXX0=
+eyJoaXN0b3J5IjpbNTU4MTUwNDksNzMzNzQyMTgzXX0=
 -->
