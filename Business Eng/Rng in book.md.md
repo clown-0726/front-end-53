@@ -21,7 +21,9 @@
 - make a fool of myself.
 - Hem held the chisel(凿子), while Haw banged(重击) on the hammer until made a hole in the wall.
 - But he had to laugh at his folly(愚笨) when he saw what his fear was doing to him.
-- Where am I more likely to find Cheese -- here or in the Maze
+- Where am I more likely to find Cheese -- here or in the Maze?
+- Haw looked at his emaciated(消瘦的) companion.
+- Haw stuck his head out and peered anxiously into the Maze.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjQ2NzI5Niw3MzM3NDIxODNdfQ==
+eyJoaXN0b3J5IjpbMTIyNzUwNjIsNzMzNzQyMTgzXX0=
 -->
