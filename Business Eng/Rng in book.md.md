@@ -40,7 +40,10 @@
 - He was startled.
 - Scurry waved his paw, their fat little bellies showed that they had been here for some time.
 - Hooray(高呼万岁) for change.
+- Hem still hemmed in because he would not change.
+- Get out of his predicament.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1Nzc3OTEzLDExOTM3NjU0MjUsMTMxMj
-c5MTA3OCw3MzM3NDIxODNdfQ==
+eyJoaXN0b3J5IjpbMTY4NzEwMTQ2MywxMTkzNzY1NDI1LDEzMT
+I3OTEwNzgsNzMzNzQyMTgzXX0=
 -->
