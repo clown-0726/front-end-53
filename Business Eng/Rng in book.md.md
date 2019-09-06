@@ -30,7 +30,7 @@
 - He was still weighted down(给。。。加重负担) by fearful beliefs.
 - He was still paralyzed by his own fears.
 - What lay ahead? 
-- danger lurking()
+- danger lurking(潜水)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMyMTE4MTAxLDczMzc0MjE4M119
+eyJoaXN0b3J5IjpbLTE2NTkxNDI0ODMsNzMzNzQyMTgzXX0=
 -->
