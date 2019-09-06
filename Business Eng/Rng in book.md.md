@@ -11,7 +11,8 @@
 - cope with = handle with; they passed it on to others.
 - nibble the cheese; put on there jogging suits.
 - The maze was a labyrinth of corridors and chambers, some containing delicious cheese. But there were also dark corners and blind alleys leading nowhere. It was an easy place for anyone to get lost.
-- 
+- to enjoy the tasty new morsels that awaited them.
+- waddle (蹒跚而行)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5NjU3NDU1XX0=
+eyJoaXN0b3J5IjpbMTI0NzU4MDk5M119
 -->
