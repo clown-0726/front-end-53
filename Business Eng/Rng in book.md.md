@@ -19,8 +19,9 @@
 - atop = on the top of
 - He squealed(尖声叫) with delight.
 - make a fool of myself.
-- Hem held the chisel, while Haw banged on the hammer until made a hole in the wall.
-- But he had to laugh at his folly when he saw
+- Hem held the chisel(凿子), while Haw banged(重击) on the hammer until made a hole in the wall.
+- But he had to laugh at his folly(愚笨) when he saw what his fear was doing to him.
+- Where am I more likely to find Cheese -- here or in the Maze
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU0NTI3NTc0LDczMzc0MjE4M119
+eyJoaXN0b3J5IjpbLTQwNjQ2NzI5Niw3MzM3NDIxODNdfQ==
 -->
