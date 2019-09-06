@@ -44,8 +44,10 @@
 - Get out of his predicament.
 - He draws a large piece of cheese around all the insights he had become aware of.
 - managed to = arranged to：成功的完成xxx
-- 
+- when I had a rough encounter with change.
+- a fraction of 一部分
+- practically实际上; ency
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzM0MzYyMTgsMTE5Mzc2NTQyNSwxMz
-EyNzkxMDc4LDczMzc0MjE4M119
+eyJoaXN0b3J5IjpbNjU5ODQ2OTAyLDExOTM3NjU0MjUsMTMxMj
+c5MTA3OCw3MzM3NDIxODNdfQ==
 -->
