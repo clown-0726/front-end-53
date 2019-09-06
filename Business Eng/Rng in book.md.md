@@ -27,6 +27,9 @@
 - He could feel himself being drawn back(拉开，退却) into familiar territory.
 - If he had bitten off more than he could chew.
 - Mold(霉菌); stay more alert
+- He was still weighted down(给。。。加重负担) by fearful beliefs.
+- He was still paralyzed by his own fears.
+- What lay ahwad
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMjA3OTc0Nyw3MzM3NDIxODNdfQ==
+eyJoaXN0b3J5IjpbMjg1Nzk1MzMsNzMzNzQyMTgzXX0=
 -->
