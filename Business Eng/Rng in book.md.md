@@ -31,7 +31,7 @@
 - He was still paralyzed by his own fears.
 - What lay ahead? 
 - danger lurking(潜水)
-- 
+- Haw realized 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMjE4NzMwNCw3MzM3NDIxODNdfQ==
+eyJoaXN0b3J5IjpbLTkxNDQ4MzY4NCw3MzM3NDIxODNdfQ==
 -->
