@@ -49,3 +49,9 @@
 - practically实际上; encyclopedia 百科全书
 - No one responded so she suggested, "How about a show of hands?"
 - we wanted to hand on(坚持) to it.
+- The group groaned(呻吟，叹息) at the obvious play on words.
+- What do we need to `let go of` and what do we need to `move on to`.
+- Frank grinned.
+- I remember a time when our son was a sophomore in high school.
+- In short, a change imposed is a change opposed.
+- How come? 为什么，怎么办。
