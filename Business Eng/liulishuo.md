@@ -32,6 +32,14 @@ This is the second time Christina has been to San Francisco.
 ## 🐛 Level 5 -- part 1 (20)
 #### Page 1
 
+It can be beautiful, wonderful, and heartbreaking, sometimes all at the same time.
+but it can also be an escape from loneliness and suffering.
+He relates a comis story in which humans originally had 4 arms, 4 legs and 2 faces.
+Once we have children, we are right back to where we were, still searching for happiness.
+This state of being is called nirvana.
+
+xxx
+
 #### Page 2
 
 #### Page 3
