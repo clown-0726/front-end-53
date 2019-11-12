@@ -26,7 +26,15 @@
 26. If it's out of your control, why fret [使烦恼，焦急] about it?
 27. cable, cabinet, drawer, flip chart(展示板), pascal case, sweat, my two cents(本人拙见)
 28. Canary - Beta - Stable
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDkwMzY1Ml19
--->
+29. Let's put this meeting off until later(put off until later)
+30. unwillingness, be reluctant to, be averse to 不情愿
+31. If you feel dumb, just remember Cap tried to choke a robot.
+32. fully healed/mended.          ambidextrous     break a leg       persume-assume
+33. Rubik's cube 鲁比克魔方
+34. You don't start over. Every step you take is forever. 你没有机会重来，走的每一步都是永恒。
+35. So for the first time ever, it went viral.
+36. Why I haven't I been notified.
+37. spice - recipe        pessimistics  apprehensive       we got to go / gotta go   必须
+38. I doing okay       what's up man    nothing much (老样子)     good for you(还不错)
+39. Obvious: easy to see, stands out.  注意stand out  站出来->突出 standingout
+40. We admire people for just being famous. 我们钦佩那些仅仅因为出了名的人.
