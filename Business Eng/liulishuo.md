@@ -58,6 +58,10 @@ xxx
 ## 🐛 Level 5 -- part 3 (20)
 #### Page 1
 
+- He was also given a 20% raise in salary.
+- There is a high probobility that the company will be acquired.
+- About 40% of jobs are found through acquaintances.
+
 #### Page 2
 
 #### Page 3
