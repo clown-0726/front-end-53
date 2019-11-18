@@ -61,6 +61,18 @@ xxx
 - He was also given a 20% raise in salary.
 - There is a high probobility that the company will be acquired.
 - About 40% of jobs are found through acquaintances.
+- ==============================================================
+- In planning for the interview.
+- It has been years since he was last interviewed.
+- He may find the company isn't right for him.
+- ==============================================================
+- Relaxed: to be calm and at peace, not anxious or tense.
+- He hasn't relaxed for a long time, so he's exhausted and difficult to be around.
+- Arrogant: to have an exaggerated sense of one's importance or abilities; the opposite of modest.
+- As a company we don't allow prejudice of any kind, including race or religious differences.
+- He options about the quality of her job.
+- We expect the judge at the trial to be neutral and allow both sides to present their evidence to the jury.
+- ==============================================================
 
 #### Page 2
 
