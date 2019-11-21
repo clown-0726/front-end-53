@@ -1,4 +1,4 @@
-## 🐛 Level 4 -- part 1 (20)
+## 🦋 Level 4 -- unit 1 (20)
 
 #### Page 1
 Then Christina quit her job and started her own business.
@@ -11,7 +11,7 @@ This is the second time Christina has been to San Francisco.
 
 #### Page 4
 
-## 🐛 Level 4 -- part 2 (20)
+## 🦋 Level 4 -- unit 2 (20)
 #### Page 1
 
 #### Page 2
@@ -20,7 +20,7 @@ This is the second time Christina has been to San Francisco.
 
 #### Page 4
 
-## 🐛 Level 4 -- part 3 (20)
+## 🦋 Level 4 -- unit 3 (20)
 #### Page 1
 
 #### Page 2
@@ -29,7 +29,33 @@ This is the second time Christina has been to San Francisco.
 
 #### Page 4
 
-## 🐛 Level 5 -- part 1 (20)
+## 🐛 Level 5 -- unit 1 (20)
+#### Page 1
+
+- Like many other buildings, the school had been `torn down`.
+- ...and a hasband who was `really` at home.
+- She would have to `arrange for` someone to take care of things while she was away.
+- In their school days, Sharon was `class monitor`(班长).
+- None of them had seen or heard from her since graduation.
+- They were especially curious `since she hadn't gone to their first reunion` 10 years before.
+- ==============================================================
+- Since he and her mother didn't get along...(由于他和她母亲相处不好)
+- He really didn't want her mother to come, though he didn't say so.
+- Everyone had aged so much, and many were out of shape.
+- It was stange how time had changed people in such different ways.
+- ==============================================================
+- To tear a person down means to hurt them by saying negative things about them.
+- constructive - destructive
+- Some people are poorly organized, so they have a hard time finding things.
+- The opposite of "support" is "to undermine or weaken".
+
+#### Page 2
+
+#### Page 3
+
+#### Page 4
+
+## 🐛 Level 5 -- unit 2 (20)
 #### Page 1
 
 It can be beautiful, wonderful, and heartbreaking, sometimes all at the same time.
@@ -38,24 +64,13 @@ He relates a comis story in which humans originally had 4 arms, 4 legs and 2 fac
 Once we have children, we are right back to where we were, still searching for happiness.
 This state of being is called nirvana.
 
-xxx
-
 #### Page 2
 
 #### Page 3
 
 #### Page 4
 
-## 🐛 Level 5 -- part 2 (20)
-#### Page 1
-
-#### Page 2
-
-#### Page 3
-
-#### Page 4
-
-## 🐛 Level 5 -- part 3 (20)
+## 🐛 Level 5 -- unit 3 (20)
 #### Page 1
 
 - He was also given a 20% raise in salary.

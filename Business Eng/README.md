@@ -11,13 +11,8 @@ as part of a sentence
 ## Pronunciation
 
 - rule：入；law：老；
-- water, speed, expired, expend, mistake, spoil, spider 注意t&p的发音
+- water, speed, expired, expend, mistake, spoil, spider, expect 注意t&p的发音
 - tell -- tail, fight -- fought, borrow
 - J G
 - weave
 - gave up
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjMxODQ1Myw3MzA5OTgxMTZdfQ==
--->
