@@ -48,6 +48,10 @@ This is the second time Christina has been to San Francisco.
 - constructive - destructive
 - Some people are poorly organized, so they have a hard time finding things.
 - The opposite of "support" is "to undermine or weaken".
+- ==============================================================
+- Office gossip is often entertaining, but it can also be damaging.
+- Opinions are what people think or feel about something as opposed to factual information.
+- If a store is open `to` the public.
 
 #### Page 2
 
