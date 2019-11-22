@@ -52,8 +52,30 @@ This is the second time Christina has been to San Francisco.
 - Office gossip is often entertaining, but it can also be damaging.
 - Opinions are what people think or feel about something as opposed to factual information.
 - If a store is open `to` the public.
+- Opinions often differ, and when they do people may argue.
+- ==============================================================
+- I took time off from work to be at home today.
+- I'll see to it that you get your refund.
 
 #### Page 2
+
+- She felt a bit awkward and out of place.
+- He is wearing thick glasses.
+- Then he told her that he had always had a crush on her.
+- He said she looded beautiful and he immediately took a selfie of them, with his arm tight around her waist.
+- She smiled to him and pretended to be happy to see him.
+- She finally excused herself and went to the ladies room.
+- Sharon invited her to sit at her table.
+- Dinner was going to be served soon.
+- She had always felt like an outsider.
+- ==============================================================
+- As the evening wore on, Jessica began to really enjoy herself.
+- He had also gained a lot of weight.
+- She made a vidoe of her singing, and it went viral.
+- She had been too stiff and nevous in front of camera.
+- The one tragedy in her life happened about five years ago, when she lost her daughter to a rare form of cancer.
+- He saw many people die and he grew to hate fighting of any kind.
+- Then one day he was nearly killed when the helicopter he was in was shut down.
 
 #### Page 3
 
