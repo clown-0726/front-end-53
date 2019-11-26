@@ -86,6 +86,14 @@ This is the second time Christina has been to San Francisco.
 
 #### Page 3
 
+- They are both health-conscious vegetarians.
+- In fact, people were willing to pay higher prices for food that was free of harmful chemicals.
+- There were very few frozen meals available at the time, and more of them were vegetrian or organic.
+- To be conscious of something means to be aware of it.
+- It was a frozen pasta meal with a mix of vegetables and a delicious cream sauce.
+- The market response was enthusiastic and profitable beyond their expectations.
+- Other products followed in rapid succession.
+
 #### Page 4
 
 ## 🐛 Level 5 -- unit 2 (20)
