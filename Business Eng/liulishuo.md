@@ -93,6 +93,12 @@ This is the second time Christina has been to San Francisco.
 - It was a frozen pasta meal with a mix of vegetables and a delicious cream sauce.
 - The market response was enthusiastic and profitable beyond their expectations.
 - Other products followed in rapid succession.
+- ==============================================================
+- This is Lilu speaking.
+- There are several matters I's like to discuss with you.
+- Would later this week be possible?
+- Could you be here by then?
+- I am sorry, but something urgent has come up.
 
 #### Page 4
 
