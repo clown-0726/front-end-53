@@ -2,13 +2,8 @@
 
 ```python
 def save_data_local(self, report_folder, report_path, final_str):
-  """
-  Save file to local
-  """
-  # Judge if folder exist
   if not os.path.exists(report_folder):
     os.mkdir(report_folder)
-  # Judge if file exist
   if not os.path.isfile(report_path):
     with open(report_path, 'wb') as f:
       f.write(str(final_str).encode('utf-8'))
@@ -20,11 +15,26 @@ def save_data_local(self, report_folder, report_path, final_str):
 #### Get all str between given term
 
 ```python
-import re
-
 contents_extracted_list = re.findall(r"<html.*?</html>", contents, flags=re.DOTALL)
-
 for contents_extracted in contents_extracted_list:
     print(contents_extracted)
+```
+
+
+
+#### Remove all tags
+
+```python
+def remove_all_tags(with_tag):
+    return str(re.sub(r'<.*?>', ' ', with_tag))
+```
+
+
+
+#### Get file name with uuid
+
+```python
+def get_file_name_by_uuid(line, extension=''):
+    return str(uuid.uuid3(uuid.NAMESPACE_DNS, str(line))) + extension
 ```
 
