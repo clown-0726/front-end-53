@@ -20,7 +20,3 @@ https://stackedit.io/
 
 [前端面试考点多？看这些文章就够了（2019年6月更新版](https://juejin.im/post/5aae076d6fb9a028cc6100a9#heading-22)
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk5NzUzMzYsODcyNDcyOTYxLC0yMD
-M1NzYwMzUxLDIzMzA0NjExN119
--->
