@@ -1,7 +1,3 @@
-## online 编辑器
-
-https://stackedit.io/
-
 ## 面试汇总
 
 [Javascript 面试核心考点（原创）](https://mp.weixin.qq.com/s/Bk07WB9hBagL590RRjC4FA)
