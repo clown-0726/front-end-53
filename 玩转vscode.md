@@ -65,20 +65,20 @@
 
 - 自动补全/智能提示：
   	快捷键：Ctrl/Cmd + 空格键
-  	关键字：quickSuggestions	
+    	关键字：quickSuggestions	
 - 快速预览：
   	快捷键：Ctrl/Cmd + Shift + Space
-  	关键字：parameterHints
+    	关键字：parameterHints
 - 快速修复：
   	快捷键：Ctrl/Cmd + .
 - 重构：
   	快捷键：选中方法名，安装f2进行方法名修改（这个不同于全局替换）
-  	选中一段话，左边出现的黄色小灯泡可以用来进一步方法抽取等重构
+    	选中一段话，左边出现的黄色小灯泡可以用来进一步方法抽取等重构
 
 ## 一定要用好代码折叠、小地图和面包屑特性
 
 - 可折叠代码：Ctrl + Shift + [ / Cmd + Option + [
-  					Ctrl + Shift + ] / Cmd + Option + ]
+  					       Ctrl + Shift + ] / Cmd + Option + ]
 - 基于语言定义的代码折叠，VSCODE给用户提供了接口
   小地图：
   面包屑：
