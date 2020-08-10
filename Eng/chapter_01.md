@@ -22,7 +22,7 @@
 22. I will be in Multi Goal google sprint from Apr 29th – May 3rd.  Please `expect delays` in my response.
 23. and starts at 11 am `sharp`.
 24. Let’s `walk the board` this morning:
-25. I am feeling under the weather
+25. Xxx
 26. I am still down with flu.
 27. February was another `release-filled` month.
 28. I’d like to take tomorrow off `if there are no objections`.

@@ -1,4 +1,4 @@
-1. POC: proof of concept; GTD: Getting things done
+1. GTD: Getting things done
 2. Great work – keep it up
 3. WORD: just-in-time(刚刚准时), trade in(交易), cockpit(座舱)
 4. With their anticipated time off coming up. (他们预期的时间即将到来)
