@@ -38,3 +38,11 @@ def get_file_name_by_uuid(line, extension=''):
     return str(uuid.uuid3(uuid.NAMESPACE_DNS, str(line))) + extension
 ```
 
+
+#### Read a file line-by-line into a list?
+```python
+with open('all_pscode') as f:
+    content = f.readlines()
+# you may also want to remove whitespace characters like `\n` at the end of each line
+content = [x.strip() for x in content]
+```
