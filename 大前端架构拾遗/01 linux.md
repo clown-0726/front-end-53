@@ -18,3 +18,12 @@
 
 区分解释型语言（python，js）和编译醒语言（java，c++）
 
+
+
+## Windows 命令
+
+- 创建文件夹：md abc
+- 删除：del abc
+- 复制：copy abc cba
+
+- 重命名：rename
