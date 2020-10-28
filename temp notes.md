@@ -1,4 +1,0 @@
-- border-collapse:  collapse  to conceal the table default 2 lines 
-- css 选择器优先级：ID > class > type
-- css lint
-- Try use tranform

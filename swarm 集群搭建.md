@@ -112,9 +112,33 @@ networks:                      # 定义一组网络
 
 服务发现其实指的是“服务间如何通讯”和“服务和用户如何通讯”这两个问题。
 
+##### Ingress 网络
+
+ingress 的 overlay 网络。overlay 网络就是在物理网络之上的一个虚拟网络，使我们的应用不再依赖物理网络，又能保持物理网络不变。
+
+VIP LB 是一个基于虚拟网络的负载均衡，每个机器都有自己的虚拟IP
+
+[![0h4w01.md.png](https://s1.ax1x.com/2020/10/13/0h4w01.md.png)](https://imgchr.com/i/0h4w01)
+
+##### Ingress + link 网络
+
+其实就是在原来的 ingress 网络上加上了 link，可以使得相互依赖的服务进行访问。内部使用了容器的DNS映射。
+
+[![0h4Dk6.md.png](https://s1.ax1x.com/2020/10/13/0h4Dk6.md.png)](https://imgchr.com/i/0h4Dk6)
+
+##### 自定义网络
+
+先创建一个overlay的网络 `docker network create --driver=overlay --attachable mynet`
+
+将服务绑定到网络 `docker service create -p 80:80 --network=mynet --name nginx nginx`
+
+[![0h40Tx.md.png](https://s1.ax1x.com/2020/10/13/0h40Tx.md.png)](https://imgchr.com/i/0h40Tx)
+
+##### 其他
+
 先看一下 Swarm 的网络类型 `vip` 和 `dnsrr`
 
-
+网络的Driver: `bridge` `host` `overlay`
 
 ### Reference
 
