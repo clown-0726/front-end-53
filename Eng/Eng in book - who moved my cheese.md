@@ -2,7 +2,6 @@
 
 - Sniff, Scurry, Hem, Haw - four imaginary characters
 - hem and haw(犹豫，吞吞吐吐)
-- jogging and golf
 - It can be traumatic.(心理/生理 创伤)
 - People after people from every department went out of their way to thank me.
 - This brief parable(寓言) takes little time to read.

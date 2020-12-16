@@ -38,12 +38,10 @@ http_gunzip_module - 应用支持gunzip的压缩方式（几乎不用，在不�
 
 ```nginx
 Syntax: expires [modified] time;
-		expires epoch | max | off;
+		    expires epoch | max | off;
 Default: expires off;
 Context: http,server,location, if in location;
 ```
-
-
 
 ## 跨站访问 (Access-Control-Allow-Origin)
 
@@ -81,8 +79,6 @@ location ~ .*\.(htm|html)$ {
 }
 ```
 
-
-
 ## 反向代理
 
 ```nginx
@@ -117,14 +113,15 @@ Context: http,server,location;
 
 # 跳转重定向
 Syntax: proxy_redirect default;
-		proxy_redirect off; proxy_redirect redirect replacement;
+		    proxy_redirect off; 
+        proxy_redirect redirect replacement;
 Default: proxy_redirect default;
 Context: http,server,location;
 
 # 缓冲区
 Syntax: proxy_set_header field value;
 Default: proxy_set_header Host $proxy_host;
-		proxy_set_header Connection close;
+		     proxy_set_header Connection close;
 Context: http,server,location;
 # 扩展：proxy_hide_header, proxy_set_body
 

@@ -70,10 +70,6 @@ var _prototype = Object.create(Car.prototype)
 var _prototype = content(Car.prototype)
 ```
 
-
-
-
-
 #### ES6 语法糖
 
 ```javascript
@@ -126,5 +122,13 @@ Xxx
 Xxx
 
 #### 手写 ajax
+
+xxx
+
+#### 手写 promise
+
+xxx
+
+#### 手写防抖和节流
 
 xxx
