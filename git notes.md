@@ -4,16 +4,6 @@
 
 如果fetch下来不做merge而是做rebase的话，效果则会不一样，会产生一个祖先而不是两个，具体不再这里讨论。都是分支的集成策略，如果选取看情况。
 
-### 分离头指针状态（Detached HEAD）
-
-一般情况下，HEAD都是指向某个branch的。
-
-但是当我们在Detached HEAD状态的时候，我们仍然可以做commit，但是当我们切换到其他分支的时候，这些新的commit就会消失，被git当作垃圾清理掉。
-
-因此从Detached HEAD切换到正常分支的时候，一定要记得建立一个新的分支。
-
-分离头指针状态就是我们的变更没有基于某个branch去做。
-
 ### 一些常见的工作场景 / 操作
 
 - 比较暂存空间和HEAD的区别 `git diff --cached`
@@ -22,15 +12,8 @@
 
 - 比较不同提交的指定文件的差异 `git diff branch1 branch2 <-- filename>`
 
-  > 这里注意，比较不同比较的不是分支，而是commit，如果用分支名的话其实比较的是分支指向的最新commit 
+  > 这里注意，比较不同比较的不是分支，而是commit，如果用分支名的话其实比较的是分支指向的最新commit
 
-- 放弃掉最近的一些 commit 即回复到某一个状态 `git reset --hard <12xsd23dw>`
-
-- git push -f 危险禁止命令
-
-  `git push -f origin b3bf033:master` 在本地强制将远程分支“恢复”到某一个提交状态。
-
-  `git reset --hard hashcode`
 
 ### 分支集成策略
 
